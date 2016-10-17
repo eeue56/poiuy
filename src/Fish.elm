@@ -8,5 +8,5 @@ module Fish exposing (herp)
 
 {-| Do nothing
 -}
-herp : Int -> Int
+herp : Float -> Float
 herp x = x
